@@ -1,4 +1,19 @@
 # Polar-DB based Educational Administration System
+
+## Code Structure
+```
+|__ UI/ --> all UI design and main function
+    |__ __init__.py 
+    |__ admin.py --> log in UI
+    |__ department.py --> department settings for teacher account
+    |__ icon.py -->  icons for all operations
+    |__ login.py --> main file for launch the system
+    |__ main_window.py --> main console file when login sucessfully
+    |__ teacher.py --> login UI for teacher account(student account can't access this interface)
+|__ img/ --> all images for the system
+|__ main.py basic SQL command
+```
+
 ## Getting Started
 install with  `pip install -r requirements.txt` 
 run with `python login_ui.py`
