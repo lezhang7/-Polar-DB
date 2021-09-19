@@ -11,7 +11,7 @@
     |__ main_window.py --> main console file when login sucessfully
     |__ teacher.py --> login UI for teacher account(student account can't access this interface)
 |__ img/ --> all images for the system
-|__ main.py basic SQL command
+|__ main.py PolarDB connection settings
 ```
 
 ## Getting Started
