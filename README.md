@@ -1,6 +1,6 @@
 # Polar-DB based Educational Administration System
 
-## More information about this project please refer to [this]:https://zhangle.netlify.app/project/database-system/
+### More information about this project please refer to [here]:https://zhangle.netlify.app/project/database-system/
 
 ## Code Structure
 ```
